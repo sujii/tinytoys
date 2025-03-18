@@ -141,6 +141,7 @@ const App = () => {
   return (
     <div className="app">
       <h1>TINY TOYS</h1>
+      <h2>A Tiny-Version of real to fun OpenAI.</h2>
       <div className="chat-box">
         {messages.map((msg) => (
           <MessageComponent key={msg.id} msg={msg} />
