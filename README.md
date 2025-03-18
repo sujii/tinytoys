@@ -1,6 +1,6 @@
 # TINYTOYS
 
-OpenAI-TOYS-UI: Tyny-Version.
+TOYS for OpenAI: Tyny-Version.
 
 ## TECH-STACS
 
